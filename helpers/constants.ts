@@ -6,7 +6,7 @@ export const PROFILE_NFT_CONTRACT =
 export const PROFILE_NFT_OPERATOR =
     "0xC5633f7E465eBB1A9F855F93047134ef1ca61E49";
 
-export const DOMAIN = "social.thirdy.xyz"; // Domain name
+export const DOMAIN = "thirdy.xyz"; // Domain name
 
 export const FEATURED_BADGES = [
     {
