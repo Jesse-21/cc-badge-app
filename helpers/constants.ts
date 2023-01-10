@@ -1,12 +1,12 @@
-export const CHAIN_ID = 5; // Goerli Testnet Network chain id
+export const CHAIN_ID = 137; // Goerli Testnet Network chain id
 
 export const PROFILE_NFT_CONTRACT =
-    "0x57e12b7a5f38a7f9c23ebd0400e6e53f2a45f271"; // Link3 ProfileNFT contract address
+    "0x2723522702093601e6360cae665518c4f63e9da6"; // Link3 ProfileNFT contract address
 
 export const PROFILE_NFT_OPERATOR =
-    "0xaB24749c622AF8FC567CA2b4d3EC53019F83dB8F";
+    "0xC5633f7E465eBB1A9F855F93047134ef1ca61E49";
 
-export const DOMAIN = "test.com"; // Domain name
+export const DOMAIN = "social.thirdy.xyz"; // Domain name
 
 export const FEATURED_BADGES = [
     {
