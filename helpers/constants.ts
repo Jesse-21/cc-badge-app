@@ -1,4 +1,4 @@
-export const CHAIN_ID = 137; // Goerli Testnet Network chain id
+export const CHAIN_ID = 137; // Polygon Mainnet Network chain id
 
 export const PROFILE_NFT_CONTRACT =
     "0x2723522702093601e6360cae665518c4f63e9da6"; // Link3 ProfileNFT contract address
